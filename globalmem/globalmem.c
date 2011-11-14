@@ -280,9 +280,3 @@ static int globalmem_ioctl(struct inode *inodep, struct file *filp,
 	return 0;
 }
 
-
-
-
-
- 
-
